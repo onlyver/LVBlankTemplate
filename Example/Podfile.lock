@@ -1,0 +1,91 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - DZNEmptyDataSet (1.8.1)
+  - FFPopup (1.1.5)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LookinServer (1.1.7):
+    - LookinServer/Core (= 1.1.7)
+  - LookinServer/Core (1.1.7)
+  - LVBlankTemplate (0.1.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.4.1)
+  - MJRefresh (3.7.5)
+  - OpenUDID (1.0.0)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+  - TYCyclePagerView (1.2.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (= 4.0.1)
+  - DZNEmptyDataSet (= 1.8.1)
+  - FFPopup (~> 1.1.5)
+  - FMDB (~> 2.7.5)
+  - LookinServer
+  - LVBlankTemplate (from `../`)
+  - Masonry (= 1.1.0)
+  - MBProgressHUD (~> 1.2.0)
+  - MJExtension (~> 3.4.1)
+  - MJRefresh (= 3.7.5)
+  - OpenUDID (= 1.0.0)
+  - SDWebImage (~> 5.17.0)
+  - TYCyclePagerView (= 1.2.0)
+  - YYModel (= 1.0.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - DZNEmptyDataSet
+    - FFPopup
+    - FMDB
+    - LookinServer
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - OpenUDID
+    - SDWebImage
+    - TYCyclePagerView
+    - YYModel
+
+EXTERNAL SOURCES:
+  LVBlankTemplate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FFPopup: a208dcee8db3e54ec4a88fcd6481f6f5d85b7a83
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LookinServer: 4ce0469b066871525611d009d8d16a7a50c23491
+  LVBlankTemplate: a5a32737ad6d25ae483392691c9fdd1e0462f319
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  TYCyclePagerView: 2b051dade0615c70784aa34f40c646feeddb7344
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 18f99f0fa1004aa78822cb436748c7003c5fc756
+
+COCOAPODS: 1.12.0

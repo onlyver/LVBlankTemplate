@@ -1,0 +1,6 @@
+framework module LVBlankTemplate {
+  umbrella header "LVBlankTemplate-umbrella.h"
+
+  export *
+  module * { export * }
+}
