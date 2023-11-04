@@ -22,10 +22,10 @@ target 'LVBlankTemplate_Example' do
       pod 'MJExtension', '~> 3.4.1'
       pod 'MJRefresh', '3.7.5'
       pod 'OpenUDID', '1.0.0'
-      #pod 'UICKeyChainStore'#, '2.2.1'
+      pod 'UICKeyChainStore', '2.2.1'
       #pod 'WebViewJavascriptBridge'#,'6.0.3'
       pod 'SDWebImage' , '~> 5.17.0'
-      #pod 'Toast'#, '~> 4.0.0'
+      pod 'Toast', '~> 4.0.0'
       pod 'TYCyclePagerView', '1.2.0'
       pod 'YYModel', '1.0.4'
       pod 'LookinServer', :configurations => ['Debug']

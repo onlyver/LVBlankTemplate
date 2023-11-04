@@ -31,7 +31,9 @@ PODS:
   - SDWebImage (5.17.0):
     - SDWebImage/Core (= 5.17.0)
   - SDWebImage/Core (5.17.0)
+  - Toast (4.0.0)
   - TYCyclePagerView (1.2.0)
+  - UICKeyChainStore (2.2.1)
   - YYModel (1.0.4)
 
 DEPENDENCIES:
@@ -47,7 +49,9 @@ DEPENDENCIES:
   - MJRefresh (= 3.7.5)
   - OpenUDID (= 1.0.0)
   - SDWebImage (~> 5.17.0)
+  - Toast (~> 4.0.0)
   - TYCyclePagerView (= 1.2.0)
+  - UICKeyChainStore (= 2.2.1)
   - YYModel (= 1.0.4)
 
 SPEC REPOS:
@@ -63,7 +67,9 @@ SPEC REPOS:
     - MJRefresh
     - OpenUDID
     - SDWebImage
+    - Toast
     - TYCyclePagerView
+    - UICKeyChainStore
     - YYModel
 
 EXTERNAL SOURCES:
@@ -83,9 +89,11 @@ SPEC CHECKSUMS:
   MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
   OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
   SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
   TYCyclePagerView: 2b051dade0615c70784aa34f40c646feeddb7344
+  UICKeyChainStore: ba3bff2c762b12db1e516f395c837dd25298b05e
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
-PODFILE CHECKSUM: 18f99f0fa1004aa78822cb436748c7003c5fc756
+PODFILE CHECKSUM: c993645ef6125f99b7a75b749c4e0bfa44725afc
 
 COCOAPODS: 1.12.0
